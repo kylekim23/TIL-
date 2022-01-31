@@ -237,7 +237,7 @@ __yes or no__
     ![Alt text](/path/to/img.jsp)
     ![Alt text](/path/to/img.jpg "Optional title")
 
-![testPhoto](./images/testPhoto.jpg)
+![testPhoto](/images/testPhoto.jpg)
 
 사이즈 조절 기능은 없기 때문에 
 > 
