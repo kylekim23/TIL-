@@ -150,7 +150,7 @@ public class TestApplication {
 
 **깃헙** 에서는 코드블럭코드("```") 시작점에 사용하는 언어를 선언하여 문법강조 (Syntax highlighting)이 가능하다.
  
- ```
+
  ```java 
  public class TestApplication{
          public static void main(String[] args){
