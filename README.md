@@ -1,5 +1,4 @@
 # TIL (Today I Learned)
-1day 1commit Start from 2022 01-31
 - - -
 목차소개 Table of contents 
 >
